@@ -1,0 +1,17 @@
+@import "@/assets/scss/variables.scss";
+
+.login-wrap {
+  width: 4rem;
+  height: auto;
+  background: white;
+  margin: 2rem auto;
+  border-radius: .05rem;
+  padding: .3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  h3 {
+    margin-bottom: .3rem;
+  }
+}
